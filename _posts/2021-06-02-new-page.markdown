@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to New page"
+categories: jekyll update
+---
+
+# New Page
+
