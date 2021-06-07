@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to New page"
+title:  "Welcome to Home"
 categories: jekyll update
 ---
 
-# New Page
 
